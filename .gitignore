@@ -1,0 +1,88 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+
+# Tye
+.tye/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+
+# User-specific stuff
+*.rsuser
+*.ReSharper*
+*.User
+*.vbproj.user
+*.sqlproj.user
+*.dtproj.user
+
+# .NET Core
+**/project.lock.json
+**/.vs
+**/.vscode
+**/*.user
+**/*.userosscache
+**/*.suo
+**/*.cache
+**/*.dll
+**/*.exe
+**/*.pdb
+**/*.mp3
+**/*.mp4
+**/*.wav
+**/*.wma
+**/*.avi
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.gif
+**/*.ico
+**/*.svg
+**/*.ttf
+**/*.otf
+**/*.woff
+**/*.woff2
+**/*.eot
+**/*.sfnt
+**/*.pdf
+bin/
+obj/
