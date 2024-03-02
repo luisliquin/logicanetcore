@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "ValidationLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ValidationLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ValidationLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ValidationLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ValidationLibrary/ValidationLibrary.csproj",
+      "msbuildProject": "../ValidationLibrary/ValidationLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "ValidationLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Luis Liquin\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\2024RepoGit\\LogicaNetcore\\ValidationLibrary\\ValidationLibrary.csproj": {
+              "projectPath": "E:\\2024RepoGit\\LogicaNetcore\\ValidationLibrary\\ValidationLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

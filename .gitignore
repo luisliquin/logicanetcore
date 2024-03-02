@@ -86,3 +86,40 @@ artifacts/
 **/*.pdf
 bin/
 obj/
+
+# Ignora el directorio .vs, que contiene configuraciones específicas del entorno de Visual Studio
+.vs/
+
+# Ignora todos los archivos y directorios dentro de cualquier carpeta obj
+**/obj/
+
+# Ignora todos los archivos y directorios dentro de cualquier carpeta bin
+**/bin/
+
+# Archivos específicos de Visual Studio .suo y .user
+*.suo
+*.user
+
+# Cachés específicos del proyecto y archivos temporales
+*.dtbcache.v2
+*.vsidx
+*.futdcache.v2
+*.metadata.v7.bin
+*.projects.v7.bin
+*.AssemblyInfo.cs
+*.AssemblyInfoInputs.cache
+*.assets.cache
+*.csproj.nuget.dgspec.json
+project.assets.json
+*.csproj.FileListAbsolute.txt
+
+# Generalmente es buena idea excluir todo el contenido de las carpetas de caché y temporales,
+# así como archivos generados automáticamente que son específicos para el entorno de un usuario.
+
+# También puedes ignorar archivos de log
+*.log
+
+# Y si usas bases de datos SQLite o archivos similares que cambian con cada ejecución,
+# también puedes optar por excluirlos
+*.db
+*.sqlite

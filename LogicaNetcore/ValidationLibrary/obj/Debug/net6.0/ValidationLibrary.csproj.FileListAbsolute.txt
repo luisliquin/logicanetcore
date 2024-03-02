@@ -1,0 +1,12 @@
+E:\2024RepoGit\LogicaNetcore\ValidationLibrary\bin\Debug\net6.0\ValidationLibrary.deps.json
+E:\2024RepoGit\LogicaNetcore\ValidationLibrary\bin\Debug\net6.0\ValidationLibrary.dll
+E:\2024RepoGit\LogicaNetcore\ValidationLibrary\bin\Debug\net6.0\ValidationLibrary.pdb
+E:\2024RepoGit\LogicaNetcore\ValidationLibrary\obj\Debug\net6.0\ValidationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\2024RepoGit\LogicaNetcore\ValidationLibrary\obj\Debug\net6.0\ValidationLibrary.AssemblyInfoInputs.cache
+E:\2024RepoGit\LogicaNetcore\ValidationLibrary\obj\Debug\net6.0\ValidationLibrary.AssemblyInfo.cs
+E:\2024RepoGit\LogicaNetcore\ValidationLibrary\obj\Debug\net6.0\ValidationLibrary.csproj.CoreCompileInputs.cache
+E:\2024RepoGit\LogicaNetcore\ValidationLibrary\obj\Debug\net6.0\ValidationLibrary.sourcelink.json
+E:\2024RepoGit\LogicaNetcore\ValidationLibrary\obj\Debug\net6.0\ValidationLibrary.dll
+E:\2024RepoGit\LogicaNetcore\ValidationLibrary\obj\Debug\net6.0\refint\ValidationLibrary.dll
+E:\2024RepoGit\LogicaNetcore\ValidationLibrary\obj\Debug\net6.0\ValidationLibrary.pdb
+E:\2024RepoGit\LogicaNetcore\ValidationLibrary\obj\Debug\net6.0\ref\ValidationLibrary.dll
